@@ -1,0 +1,6 @@
+Tính năng mới: Hệ thống thông báo.
+1. Người dùng nhận được thông báo khi có update.
+2. Cho phép tùy chỉnh loại thông báo.
+3. Có thể tắt/mở theo nhu cầu.
+4. Giao diện hiển thị đơn giản, dễ hiểu.
+5. Tương thích trên web và mobile.
